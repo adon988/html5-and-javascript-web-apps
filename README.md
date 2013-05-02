@@ -7,3 +7,9 @@ JSHint   Javascript 除錯
 參考: http://www.jshint.com/#report
 
 http://jas9.blogspot.com/2012/04/html5-polyfillwebshims-lib.html
+
+
+
+requireJS 套件:  
+簡化js的引用
+http://requirejs.org/docs/start.html
